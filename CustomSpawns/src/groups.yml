@@ -1,0 +1,27 @@
+# Configuration des groupes
+#
+#groups:
+#  nom_du_monde:
+#    worlds:
+#    - list_de_tout
+#    - les_differents
+#    - monde_du_groupe
+#    - monde_de_spawn
+#    spawn:
+#      world: monde_de_spawn
+#      x: 0
+#      y: 1
+#      z: 0
+#      yaw: 0
+#      pitch: 0
+groups:
+  groupe:
+    worlds:
+    - world
+    spawn:
+      world: world
+      x: 0
+      y: 100
+      z: 0
+      yaw: 0
+      pitch: 0

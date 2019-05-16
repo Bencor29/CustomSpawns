@@ -1,0 +1,16 @@
+# Voici la configuration par defaut du plugin.
+# Vous pouvez la modifier afin de personnaliser le plugin.
+# Si vous faites une erreur et que le plugin detecte un erreur :
+# Veuillez surpprimer ce fichier et le plugin le recrera !
+
+# Secondes a attendre pour un tp
+seconds: 5
+
+# Configuration du lobby
+lobby:
+  world: lobby_non_definit
+  x: 0
+  y: 0
+  z: 0
+  yaw: 0
+  pitch: 0
