@@ -1,0 +1,8 @@
+/bin/
+/.settings/
+/.classpath
+/.project
+
+/.idea/
+/out/
+/CustomSpawns.iml
